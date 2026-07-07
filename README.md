@@ -374,7 +374,6 @@ Focus: **Deep Learning · Single-Cell Mapping · Infertility Research · Multi-M
 | **Now** | Portfolio CMS and Laravel deployment | Dynamic personal portfolio with admin panel |
 | **Next** | PaperMind research platform | AI summary, RAG, PDF chat and citation workflow |
 | **Next** | CrisisLens emergency intelligence | Flood/cyclone monitoring and disaster dashboard |
-| **Ongoing** | Competitive programming | Algorithmic thinking and coding fluency |
 | **Ongoing** | Research and publication | Deep learning and academic collaboration |
 
 ## <div align="center">Developer Philosophy</div>
