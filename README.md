@@ -120,6 +120,7 @@ My work combines practical software engineering with intelligent systems: scalab
 </table>
 
 ## <div align="center">Skill Signal</div>
+<div align="center">
 
 | Skill Area | Visual Level | Focus |
 |---|---:|---|
@@ -129,7 +130,7 @@ My work combines practical software engineering with intelligent systems: scalab
 | **Frontend Engineering** | `▰▰▰▰▰▰▰▰▱▱` 82% | Blade, Tailwind, Alpine, React basics |
 | **Problem Solving** | `▰▰▰▰▰▰▰▱▱▱` 74% | C/C++, Java, Python, algorithms |
 | **DevOps & Deployment** | `▰▰▰▰▰▰▰▰▱▱` 76% | cPanel, Docker basics, Linux, GitHub Actions |
-
+</div>
 <img src="./assets/divider.svg" width="100%" alt="section divider" />
 
 ## <div align="center">Featured Projects</div>
