@@ -418,11 +418,14 @@ The best support is simple: explore my projects, star useful repositories, share
 | Platform | Link |
 |---|---|
 | **GitHub** | [GitHub](https://github.com/MejbahUddinBhuiyan) |
-| **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/) |
-| **ResearchGate** | [ResearchGate](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_USERNAME) |
-| **Facebook** | [Facebook](https://www.facebook.com/YOUR_FACEBOOK_USERNAME) |
-| **Instagram** | [Instagram](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/) |
-| **Email** | [Email](mailto:YOUR_EMAIL@example.com) |
+| **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/mejbah-uddin-bhuiyan-79b9b6249/) |
+| **ResearchGate** | [ResearchGate](https://www.researchgate.net/profile/Mejbah-Bhuiyan-2?ev=hdr_xprf) |
+| **Facebook** | [Facebook](https://www.facebook.com/Mejbah.Moushom666/) |
+| **Instagram** | [Instagram](https://www.instagram.com/__wiz_zard__/) |
+| **HackerRank** | [HackerRank](https://www.hackerrank.com/profile/mejbahu475) |
+| **Codeforces** | [Codeforces](https://codeforces.com/profile/mejbah09) |
+| **LeetCode** | [LeetCode](https://leetcode.com/u/mejbah09/) |
+| **Email** | [Email](mailto:mejbahu475@gmail.com) |
 
 </div>
 
