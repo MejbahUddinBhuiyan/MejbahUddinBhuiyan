@@ -1,0 +1,14 @@
+<svg width="1600" height="120" viewBox="0 0 1600 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gradient section divider">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#8B5CF6"/>
+      <stop offset="0.85" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M0 62C240 12 365 110 555 62C735 16 844 0 1010 48C1193 101 1326 106 1600 42" stroke="url(#g)" stroke-width="3" filter="url(#glow)"/>
+  <path d="M0 82C250 42 382 120 600 83C803 49 879 34 1080 66C1278 98 1382 88 1600 76" stroke="url(#g)" stroke-opacity="0.35" stroke-width="2"/>
+</svg>

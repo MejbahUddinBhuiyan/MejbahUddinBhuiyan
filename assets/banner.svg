@@ -1,0 +1,69 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mejbah Uddin Bhuiyan Premium GitHub Hero Banner</title>
+  <desc id="desc">A dark AI-themed glassmorphism hero banner with gradients, abstract neural lines and profile card layout.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.35" stop-color="#071327"/>
+      <stop offset="0.68" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(255 150) rotate(45) scale(355 220)">
+      <stop stop-color="#38BDF8" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1255 328) rotate(45) scale(360 240)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.70"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(878 108) rotate(45) scale(260 160)">
+      <stop stop-color="#14B8A6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="0.75" stop-color="#8B5CF6" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#000000" flood-opacity="0.45"/></filter>
+    <clipPath id="round"><rect x="0" y="0" width="1600" height="520" rx="42"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1600" height="520" fill="url(#bg)"/>
+    <rect width="1600" height="520" fill="url(#orb1)"/>
+    <rect width="1600" height="520" fill="url(#orb2)"/>
+    <rect width="1600" height="520" fill="url(#orb3)"/>
+    <g opacity="0.22">
+      <path d="M-20 104C221 76 257 214 470 172C664 134 712 62 926 89C1144 117 1203 235 1620 176" stroke="url(#line)" stroke-width="2"/>
+      <path d="M-20 382C223 290 345 432 581 374C815 317 837 208 1078 257C1288 300 1340 407 1620 338" stroke="url(#line)" stroke-width="2"/>
+      <path d="M80 0V520M220 0V520M360 0V520M500 0V520M640 0V520M780 0V520M920 0V520M1060 0V520M1200 0V520M1340 0V520M1480 0V520" stroke="#E2E8F0" stroke-opacity="0.06"/>
+      <path d="M0 80H1600M0 180H1600M0 280H1600M0 380H1600M0 480H1600" stroke="#E2E8F0" stroke-opacity="0.06"/>
+    </g>
+    <g opacity="0.8" filter="url(#blur)">
+      <circle cx="1275" cy="100" r="6" fill="#38BDF8"/><circle cx="1328" cy="148" r="5" fill="#8B5CF6"/><circle cx="1405" cy="95" r="4" fill="#14B8A6"/>
+      <path d="M1275 100L1328 148L1405 95" stroke="#CBD5E1" stroke-opacity="0.6"/>
+    </g>
+    <g filter="url(#shadow)">
+      <rect x="118" y="82" width="1364" height="356" rx="34" fill="#0F172A" fill-opacity="0.50" stroke="#FFFFFF" stroke-opacity="0.14"/>
+      <rect x="148" y="112" width="330" height="296" rx="30" fill="#020617" fill-opacity="0.50" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <circle cx="313" cy="215" r="78" fill="#0B1220" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="3"/>
+      <circle cx="313" cy="196" r="26" fill="#334155"/><path d="M248 312C263 274 288 254 313 254C338 254 363 274 378 312" fill="#334155"/>
+      <text x="313" y="356" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="700" fill="#E2E8F0">Profile Photo</text>
+      <text x="313" y="384" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="14" fill="#94A3B8">replace with your image</text>
+      <text x="528" y="178" font-family="Inter, Segoe UI, Arial" font-size="28" font-weight="700" fill="#38BDF8" letter-spacing="2">AI • RESEARCH • BACKEND • OPEN SOURCE</text>
+      <text x="528" y="248" font-family="Inter, Segoe UI, Arial" font-size="56" font-weight="900" fill="#F8FAFC">Mejbah Uddin Bhuiyan</text>
+      <text x="528" y="304" font-family="Inter, Segoe UI, Arial" font-size="26" fill="#CBD5E1">CSE Undergraduate · Full Stack Laravel Developer · Student Researcher</text>
+      <text x="528" y="352" font-family="Inter, Segoe UI, Arial" font-size="22" fill="#94A3B8">Building intelligent, scalable and research-focused software from Bangladesh 🇧🇩</text>
+      <g transform="translate(528 382)">
+        <rect width="170" height="42" rx="21" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.45"/>
+        <text x="85" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700" fill="#BAE6FD">Laravel</text>
+        <rect x="190" width="170" height="42" rx="21" fill="#8B5CF6" fill-opacity="0.13" stroke="#8B5CF6" stroke-opacity="0.45"/>
+        <text x="275" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700" fill="#DDD6FE">AI/ML</text>
+        <rect x="380" width="170" height="42" rx="21" fill="#14B8A6" fill-opacity="0.13" stroke="#14B8A6" stroke-opacity="0.45"/>
+        <text x="465" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700" fill="#CCFBF1">Research</text>
+      </g>
+    </g>
+  </g>
+</svg>
