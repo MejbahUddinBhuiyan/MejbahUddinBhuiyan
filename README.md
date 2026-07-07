@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- HERO BANNER: Replace assets/banner.svg with your own custom design anytime. -->
-<img src="./assets/banner.svg" width="100%" alt="Mejbah Uddin Bhuiyan premium GitHub profile banner" />
+<img src="assets/banner_with_profile.png" alt="Mejbah Uddin Bhuiyan Premium GitHub Banner" width="100%" />
 
 <!-- ANIMATED TYPING BANNER: Maintained by DenverCoder1/readme-typing-svg. -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&height=70&lines=Hi%2C%20I%27m%20Mejbah%20Uddin%20Bhuiyan%3BCSE%20Undergraduate%20from%20Bangladesh%3BFull%20Stack%20Laravel%20Developer%3BStudent%20Researcher%3BAI%20and%20Machine%20Learning%20Enthusiast%3BBackend%20Developer%20and%20Open%20Source%20Learner" alt="Animated typing introduction" />
