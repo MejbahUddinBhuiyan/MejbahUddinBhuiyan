@@ -368,6 +368,7 @@ Focus: **Deep Learning · Single-Cell Mapping · Infertility Research · Multi-M
 <img src="./assets/divider.svg" width="100%" alt="section divider" />
 
 ## <div align="center">Activity Timeline</div>
+<div align="center">
 
 | Timeline | Focus | Output |
 |---|---|---|
@@ -375,6 +376,7 @@ Focus: **Deep Learning · Single-Cell Mapping · Infertility Research · Multi-M
 | **Next** | PaperMind research platform | AI summary, RAG, PDF chat and citation workflow |
 | **Next** | CrisisLens emergency intelligence | Flood/cyclone monitoring and disaster dashboard |
 | **Ongoing** | Research and publication | Deep learning and academic collaboration |
+</div>
 
 ## <div align="center">Developer Philosophy</div>
 
@@ -413,6 +415,7 @@ The best support is simple: explore my projects, star useful repositories, share
 ## <div align="center">Connect With Me</div>
 
 <div align="center">
+
 
 | Platform | Link |
 |---|---|
